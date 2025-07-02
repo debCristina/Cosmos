@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		4B57D99C2E15B5C40033FC92 /* Cosmos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cosmos.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4B57D99C2E15B5C40033FC92 /* Cosmos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Cosmos.app; path = "/Users/deboracristina/Documents/Cosmos/build/Debug-iphoneos/Cosmos.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				4B57D99E2E15B5C40033FC92 /* Cosmos */,
-				4B57D99D2E15B5C40033FC92 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		4B57D99D2E15B5C40033FC92 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				4B57D99C2E15B5C40033FC92 /* Cosmos.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +86,7 @@
 			mainGroup = 4B57D9932E15B5C40033FC92;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 4B57D99D2E15B5C40033FC92 /* Products */;
+			productRefGroup = 4B57D9932E15B5C40033FC92;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
